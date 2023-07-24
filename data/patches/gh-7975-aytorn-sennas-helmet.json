@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "Aytorn Senna's helmet",
+	"description": "Helmet of Brazilian Formula 1 driver Ayrton Senna.",
+	"links": {
+		"subreddit": [
+			"brasil"
+		]
+	},
+	"path": {
+		"202": [
+			[
+				198,
+				500
+			],
+			[
+				198,
+				488
+			],
+			[
+				178,
+				489
+			],
+			[
+				178,
+				500
+			]
+		]
+	},
+	"center": {
+		"202": [
+			188,
+			494
+		]
+	}
+}
